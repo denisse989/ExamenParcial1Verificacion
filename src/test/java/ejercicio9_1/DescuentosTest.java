@@ -11,9 +11,10 @@ public class DescuentosTest {
             "2,2",
             "1999,1999",
             "2000,2000",
-            "2001,1",
-            "1,1",
-            "1,1",
+            "2001,1901",
+            "3999,3800",
+            "4000,3400",
+            "4001,3401",
 
     })
     public void verifyDescuento(int sueldo,int expectedResult) throws Exception {
