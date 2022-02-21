@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ejercicio9_1.DescuentosTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-02-21T13:14:48" hostname="DESKTOP-CEAC8HF" time="0.104">
+  <properties/>
+  <testcase name="[1] 1, 1" classname="ejercicio9_1.DescuentosTest" time="0.075"/>
+  <testcase name="[2] 2, 2" classname="ejercicio9_1.DescuentosTest" time="0.002"/>
+  <testcase name="[3] 1999, 1999" classname="ejercicio9_1.DescuentosTest" time="0.001"/>
+  <testcase name="[4] 2000, 2000" classname="ejercicio9_1.DescuentosTest" time="0.001"/>
+  <testcase name="[5] 2001, 1901" classname="ejercicio9_1.DescuentosTest" time="0.001"/>
+  <testcase name="[6] 3999, 3800" classname="ejercicio9_1.DescuentosTest" time="0.002"/>
+  <testcase name="[7] 4000, 3400" classname="ejercicio9_1.DescuentosTest" time="0.002"/>
+  <testcase name="[8] 4001, 3401" classname="ejercicio9_1.DescuentosTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

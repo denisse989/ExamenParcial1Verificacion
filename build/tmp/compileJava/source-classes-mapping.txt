@@ -1,0 +1,14 @@
+ejercicio9_2/ObtenerRole.java
+ ejercicio9_2.ObtenerRole
+ejercicio9_2/VerificarUsuario.java
+ ejercicio9_2.VerificarUsuario
+ejercicio9_3/Permisos.java
+ ejercicio9_3.Permisos
+ejercicio9_3/VerificarUsuario.java
+ ejercicio9_3.VerificarUsuario
+ejercicio9_1/Descuentos.java
+ ejercicio9_1.Descuentos
+ejercicio9_3/ObtenerRole.java
+ ejercicio9_3.ObtenerRole
+ejercicio9_2/Permisos.java
+ ejercicio9_2.Permisos

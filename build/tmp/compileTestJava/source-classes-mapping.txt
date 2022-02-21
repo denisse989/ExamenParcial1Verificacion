@@ -1,0 +1,4 @@
+ejercicio9_1/DescuentosTest.java
+ ejercicio9_1.DescuentosTest
+ejercicio9_2/PermisosTest.java
+ ejercicio9_2.PermisosTest
