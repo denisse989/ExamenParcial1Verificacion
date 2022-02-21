@@ -1,7 +1,12 @@
 Se tiene un método que obtiene los roles si el usuario es correcto,
 internamente este método  llama a 2 métodos
 el primero verifica que el usuario es correcto (TRUE) o
-si es incorrecto (FALSE) , si el usuario es incorrecto el mensaje devuelto es : Incorrect USER and PWD, pero si el usuario es correcto  se debe llamar a otro metodo que devuelve una cadena que indica el permiso y el tiempo de inicio de sesión (ejemplo:  PERMISO - DD MM YYYY hh mm ss)
+si es incorrecto (FALSE) , si el usuario es incorrecto
+el mensaje devuelto es :
+Incorrect USER and PWD,
+pero si el usuario es correcto  se debe llamar a
+otro metodo que devuelve una cadena que indica el permiso y
+ el tiempo de inicio de sesión (ejemplo:  PERMISO - DD MM YYYY hh mm ss)
 
 método que retorna los permisos del usuario
 
