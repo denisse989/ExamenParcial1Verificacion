@@ -8,11 +8,11 @@ public class Descuentos {
 
             if(sueldo<=2000){
                 return sueldo;
-            }if(sueldo>2000&&sueldo<sueldo*2){
+            }if(sueldo>2000&&sueldo<4000){
                 int descuento=0;
                 descuento=sueldo*5/100;
                 return sueldo-descuento;
-            }else if(sueldo>=sueldo*2){
+            }else if(sueldo>=4000){
                 int descuento=0;
                 descuento=sueldo*15/100;
                 return sueldo-descuento;
